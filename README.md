@@ -102,3 +102,5 @@ Examined affordability through scatter plots comparing Average Income and Rent C
 Assigned weights to factors (Population, Income, Competitor Count, Rent Cost).
 
 Calculated scores for each location and recommended the best store location based on the comprehensive analysis.
+
+![](/Images/store.png)  
