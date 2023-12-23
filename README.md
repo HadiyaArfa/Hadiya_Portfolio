@@ -2,7 +2,7 @@
 
 **Data Science and Analytics Portfolio**
 
-**Project 1: Subscription Plan Analysis and Revenue Prediction for a Startup**[https://github.com/HadiyaArfa/Subscription_Plan_Analysis_and_Revenue_Prediction_for_a_Startup/tree/main]
+[**Project 1: Subscription Plan Analysis and Revenue Prediction for a Startup**](https://github.com/HadiyaArfa/Subscription_Plan_Analysis_and_Revenue_Prediction_for_a_Startup/tree/main)
 
 **Data Prep & EDA:**
 
