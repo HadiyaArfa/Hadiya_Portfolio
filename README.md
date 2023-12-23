@@ -52,3 +52,24 @@ Achieved an accuracy of 81.8% on the testing dataset.
 Saved the trained model using pickle for future use.
 
 
+
+
+[**Project 3: Real Estate Price Prediction and Analysis**](https://github.com/HadiyaArfa/-Real-Estate-Price-Prediction-and-Analysis)
+
+**Data Processing:**
+
+Cleaned and preprocessed data, applied one-hot encoding.
+
+**Modeling:**
+
+Used RandomForestRegressor for predicting real estate prices.
+
+Employed K-Fold cross-validation and GridSearchCV for model assessment.
+
+**Analysis:**
+
+Explored data for insights into pricing factors.
+
+**Function Testing:**
+
+Developed and tested a prediction function.
