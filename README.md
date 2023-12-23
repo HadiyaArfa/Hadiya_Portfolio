@@ -25,3 +25,5 @@ Built models with optimized parameters.
 **Model Evaluation:**
 
 Used RMSE for model assessment.
+
+![](https://github.com/HadiyaArfa/Hadiya_Portfolio/blob/main/Images/Subscription.png)  
