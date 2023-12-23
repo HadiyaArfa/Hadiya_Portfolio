@@ -74,6 +74,8 @@ Explored data for insights into pricing factors.
 
 Developed and tested a prediction function.
 
+![](/Images/realestate.png) 
+
 
 [**Project 4: Store Location Analysis in Mumbai, India**](https://github.com/HadiyaArfa/Store-Location-Analysis-in-Mumbai-India)
 
