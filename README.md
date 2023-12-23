@@ -26,7 +26,7 @@ Built models with optimized parameters.
 
 Used RMSE for model assessment.
 
-![](/Images/Subscription.png)  
+![](https://github.com/HadiyaArfa/Hadiya_Portfolio/blob/main/Images/Subscription.png)  
 
 
 [**Project 2: Sentiment Analysis on Twitter Data Using Deep Learning**](https://github.com/HadiyaArfa/Sentiment_Analysis_for_Twitter_data)
