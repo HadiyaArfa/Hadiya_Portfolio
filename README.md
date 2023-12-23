@@ -17,6 +17,7 @@ Visualized plan preferences and prices.
 Applied one-hot encoding to categorical features.
 
 **Model Building & Training:**
+
 Tuned Random Forest and Linear Regression using GridSearchCV.
 
 Built models with optimized parameters.
