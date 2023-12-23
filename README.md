@@ -26,7 +26,7 @@ Built models with optimized parameters.
 
 Used RMSE for model assessment.
 
-![](https://github.com/HadiyaArfa/Hadiya_Portfolio/blob/main/Images/Subscription.png)  
+![](/Images/Subscription.png)  
 
 
 [**Project 2: Sentiment Analysis on Twitter Data Using Deep Learning**](https://github.com/HadiyaArfa/Sentiment_Analysis_for_Twitter_data)
@@ -73,3 +73,30 @@ Explored data for insights into pricing factors.
 **Function Testing:**
 
 Developed and tested a prediction function.
+
+
+[**Project 4: Store Location Analysis in Mumbai, India**](https://github.com/HadiyaArfa/Store-Location-Analysis-in-Mumbai-India)
+
+**Data Exploration and Visualization:**
+
+Conducted data exploration by calculating summary statistics.
+
+Utilized histograms and scatter plots for visualizing Population, Average Income, Competitor Count, and Rent Cost distributions.
+
+**Correlation Analysis:**
+
+Analyzed the correlation between Population and Average Income using scatter plots.
+
+**Competitor Assessment:**
+
+Utilized bar charts to assess competitor counts in different locations.
+
+**Affordability Evaluation:**
+
+Examined affordability through scatter plots comparing Average Income and Rent Cost.
+
+**Weighted Scoring and Recommendation:**
+
+Assigned weights to factors (Population, Income, Competitor Count, Rent Cost).
+
+Calculated scores for each location and recommended the best store location based on the comprehensive analysis.
