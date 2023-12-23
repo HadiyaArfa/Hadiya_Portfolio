@@ -27,3 +27,28 @@ Built models with optimized parameters.
 Used RMSE for model assessment.
 
 ![](https://github.com/HadiyaArfa/Hadiya_Portfolio/blob/main/Images/Subscription.png)  
+
+
+[**Project 2: Sentiment Analysis on Twitter Data Using Deep Learning**](https://github.com/HadiyaArfa/Sentiment_Analysis_for_Twitter_data)
+
+**Project overview:**
+
+Conducted sentiment analysis on Twitter data using Deep Learning to categorize tweets as positive, negative, or neutral.
+
+**Data Processing:**
+
+Loaded and explored Twitter data, ensuring data cleanliness by handling missing values.
+
+Encoded sentiment labels and applied stemming for text normalization.
+
+**Model Training and Evaluation:**
+
+Utilized Logistic Regression for sentiment analysis model training.
+
+Achieved an accuracy of 81.8% on the testing dataset.
+
+**Model Deployment:**
+
+Saved the trained model using pickle for future use.
+
+
